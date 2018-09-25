@@ -1,1 +1,1 @@
-Chapter 3 of the Git Story.
+Chapter 3 of the Git Story. This is an alien plot now in the new branch.
